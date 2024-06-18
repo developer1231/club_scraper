@@ -28,6 +28,7 @@ const { visitClub } = require('./path_to_this_script');
 (async () => {
   const statusCode = await visitClub('Your Club Name');
   console.log('Status Code:', statusCode);
+// now your club statistics will be shown in the club_screenshot.png image
 })();
 ```
 
