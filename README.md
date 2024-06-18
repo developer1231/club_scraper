@@ -31,6 +31,8 @@ const { visitClub } = require('./path_to_this_script');
 // now your club statistics will be shown in the club_screenshot.png image
 })();
 ```
+# Output
+![Screenshot of output](./club_screenshot.png)
 
 # Dependencies:
 Puppeteer is required to run this script. Install it using npm install puppeteer.
